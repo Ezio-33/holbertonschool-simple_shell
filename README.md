@@ -67,7 +67,7 @@ Pour ce projet appelé "Simple Shell", nous avions deux semaines pour réaliser 
 Pour ajouter le projet dans votre environnement de travail, vous pouvez utiliser la commande suivante dans votre terminal:
 
 ```
-git clone https://github.com/Thomas3300000/holbertonschool-simple_shell.git
+git clone https://github.com/Ezio-33/holbertonschool-simple_shell.git
 ```
 
 ### Compilation
@@ -116,7 +116,7 @@ hsh main.c shell.c test_ls_2
 
 ## Flowchart
 
-<img src="https://github.com/Thomas3300000/holbertonschool-simple_shell/blob/main/Annexes/Flowchart.png?raw=true">
+<img src="https://github.com/Ezio-33/holbertonschool-simple_shell/blob/main/Annexes/Flowchart.png?raw=true">
 
 ## Authors
 
